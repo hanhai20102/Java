@@ -219,5 +219,3 @@ public class GsonUtils {
 				ReceiveEntity<List<T>> responsedata = GsonUtils.fromJsonArray(str, clazz);
 
 ```
-![美美美](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3747387351,3359732585&fm=27&gp=0.jpg)
-![啧啧啧](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3584646080,2867582066&fm=27&gp=0.jpg)
